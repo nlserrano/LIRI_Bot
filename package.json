@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/nlserrano/LIRI_Bot/issues"
   },
-  "homepage": "https://github.com/nlserrano/LIRI_Bot#readme"
+  "homepage": "https://github.com/nlserrano/LIRI_Bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.88.0"
+  }
 }
