@@ -8,7 +8,7 @@ It uses the Request node package module in order to make http calls, which allow
 #### LIRI takes 4 main commands through the command line:
 
 1) For concert venue information, run `node liri.js concert-this <name of artist>`
-(https://nlserrano.github.com/LIRI_Bot/images/concert-this)
+![Image of command 1](https://nlserrano.github.com/LIRI_Bot/images/concert-this)
 
 2) For song information, run `node liri.js spotify-this-song <name of song>`
 ![Image of command 2](https://nlserrano.github.com/images/spotify-this)
