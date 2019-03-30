@@ -11,10 +11,10 @@ It uses the Request node package module in order to make http calls, which allow
 ![](/images/concert-this.png)
 
 2) For song information, run `node liri.js spotify-this-song <name of song>`
-![Image of command 2](https://nlserrano.github.com/images/spotify-this)
+![](/images/spotify-this.png)
 
 3) For movie information, run `node liri.js movie-this-titanic <name of movie>`
-![Image of command 3](https://nlserrano.github.com/images/movie-this)
+![](/images/movie-this.png)
 
 4) To read data text from random.txt file, run `node liri.js do-what-it-says`
-![Image of command 4](https://nlserrano.github.com/images/do-what)
+![](/images/do-what.png)
