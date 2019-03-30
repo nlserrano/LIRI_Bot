@@ -2,7 +2,7 @@
 
 This is LIRI (Language Interpretation and Recongnition Interface), a command line node app that will take in parameters and return back data.
 
-It uses the Request node package module in order to make http calls, which allows LIRI to access data from several APIs. LIRI can then search Spotify for songs, Bands in Town for concerts, and OMDB for movies.
+It uses the Request node package module in order to make http calls, which allows LIRI to access data from several APIs. LIRI can then search Spotify for songs, Bands in Town for concerts, and OMDB for movies. Information entered from the user are extracted through the process.argv node property.
 
 Other modules used: fs (reading .text file), console.table (for displaying data in command line), moment (for parsing, validating, manipulating, and formatting dates, node spotify API (API library for the Spotify REST API), dotenv (for environment variables).
 
